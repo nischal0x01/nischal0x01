@@ -25,13 +25,4 @@
 </div>
 
 
-<!--Intro start-->
-- 🔭 I’m currently working on **Python, Django, Flask Swift**
 
-
-- ☁️ I've keen interes in machine learning
-
-- 📝 I regularly write articles on [Medium](https://www.medium.com/@nischal1337/)
-
-
-<!--Intro end-->
