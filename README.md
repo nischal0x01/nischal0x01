@@ -1,9 +1,7 @@
 # About Me:
 ## I am currently working on Next.js and exploring DevOps
 
-<center>
-<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&width=435&lines=Computer+Science;Cyber+Security;DevOps;Passionate+Learner" alt="Typing SVG" /></a>
-</center>
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&center=true&width=435&lines=Computer+Science;Cyber+Security;DevOps;Passionate+Learner" alt="Typing SVG" /></a>
 
 
 ## 🌐 Socials:
