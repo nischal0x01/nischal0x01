@@ -1,5 +1,5 @@
 # 💫 About Me:
-I am currently working as a backend engineer at Xgen Solutions. Also, I am a DevOps and Cloud Practioner with my interest in financial markets as well
+I am currently working as a backend engineer at Xgen Solutions, and I also work as a DevOps and cloud practitioner, with a strong interest in financial markets.
 
 
 ## 🌐 Socials:
